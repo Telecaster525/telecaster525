@@ -5,4 +5,3 @@
 - 👯 I’m looking for an intership
 - 💬 Tell me about your interesting ideas
 - 📫 How to reach me: @bloom_guy (Telegram)
-- 😄 Pronouns: sleepy, tired

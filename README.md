@@ -1,4 +1,4 @@
-### ♂️Sup buddy?♂️
+### ♂️<b><i>Sup buddy?</b></i>♂️
 
 ![image](https://c.tenor.com/sls2zgBMCf4AAAAM/gachi.gif)
 

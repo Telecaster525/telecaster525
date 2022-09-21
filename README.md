@@ -1,7 +1,7 @@
-### ♂️<b><i>Sup buddy?</b></i>♂️
+### 
+![gachi](https://user-images.githubusercontent.com/94011547/191439506-327f5da7-0c46-421e-b041-baaa3a94a471.gif)
 
-![image](https://c.tenor.com/sls2zgBMCf4AAAAM/gachi.gif)
-
+♂️<b><i>Sup buddy?</b></i>♂️
 - 🌱 I’m currently learning C, C++, HTML, CSS, JS
 - 👯 I’m looking for an intership
 - 💬 Tell me about your interesting ideas

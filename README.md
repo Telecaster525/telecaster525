@@ -1,6 +1,7 @@
 ### 
 <h1 align="center">Hi 👋, I'm Said</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
+<img align="right" alt="Said" width="375" src="https://c.tenor.com/jixROUa3iD0AAAAM/gachi-sleepy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telecaster525&label=Profile%20views&color=000000&style=flat" alt="telecaster525" /> </p>
 
